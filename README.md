@@ -1,4 +1,4 @@
-# Pockey Ball clone (Example for my resume)
+# Pockey Ball clone (Example from course of study)
 
 https://user-images.githubusercontent.com/85953670/136140648-d043ad1c-5315-426c-bcb5-0dc7688321be.mp4
 
